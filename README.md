@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Ritu Kumari</h1>
+-<h1 align="center">Hi 👋, I'm Ritu Kumari</h1>
 <h3 align="center">Web Developer Enthusiast</h3>
 
 - 🌱 I’m currently learning **React js**
@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@ritumona_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ritumona_01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritu-kumari-31618b209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritu-kumari-31618b209" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ritumona_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritumona_01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
